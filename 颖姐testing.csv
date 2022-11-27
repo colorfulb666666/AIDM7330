@@ -1,0 +1,64 @@
+Country,Category,Time (minutes)
+Australia,Care for household members ,45
+Australia,Eating and drinking,89
+Australia,Education,27
+Australia,Other unpaid work & volunteering,58
+Australia,Paid work,211
+Australia,Personal care,56
+Australia,Sleep,512
+Australia,Houasework&Shopping,161
+Australia,Total leisure,281
+Belgium,Care for household members ,22
+Belgium,Eating and drinking,99
+Belgium,Education,41
+Belgium,Other unpaid work & volunteering,30
+Belgium,Paid work,194
+Belgium,Personal care,53
+Belgium,Sleep,513
+Belgium,Housework&Shopping,150
+Belgium,Total leisure,339
+China,Care for household members ,23
+China,Eating and drinking,100
+China,Education,25
+China,Other unpaid work & volunteering,33
+China,Paid work,315
+China,Personal care,52
+China,Sleep,542
+China,Housework&Shopping,123
+China,Total leisure,228
+France,Care for household members ,22
+France,Eating and drinking,133
+France,Education,34
+France,Other unpaid work & volunteering,17
+France,Paid work,170
+France,Personal care,107
+France,Sleep,513
+France,Housework&Shopping,151
+France,Total leisure,294
+Japan,Care for household members ,47
+Japan,Eating and drinking,93
+Japan,Education,37
+Japan,Other unpaid work & volunteering,98
+Japan,Paid work,326
+Japan,Personal care,85
+Japan,Sleep,442
+Japan,Housework&Shopping,105
+Japan,Total leisure,207
+Korea,Care for household members ,28
+Korea,Eating and drinking,117
+Korea,Education,57
+Korea,Other unpaid work & volunteering,42
+Korea,Paid work,288
+Korea,Personal care,90
+Korea,Sleep,471
+Korea,Housework&Shopping,89
+Korea,Total leisure,257
+USA,Care for household members ,31
+USA,Eating and drinking,63
+USA,Education,31
+USA,Other unpaid work & volunteering,65
+USA,Paid work,251
+USA,Personal care,57
+USA,Sleep,528
+USA,Housework&Shopping,122
+USA,Total leisure,291
